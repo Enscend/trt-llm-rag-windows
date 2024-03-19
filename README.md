@@ -16,7 +16,9 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) seeks to e
 ## Getting Started
 
 > [!IMPORTANT]  
-> This branch is valid only for TRT-LLM v0.5. For the instructions compatible with the latest TRT-LLM release (v0.7.1), please switch to this branch: [trt-llm-0.7.1](https://github.com/NVIDIA/trt-llm-rag-windows/blob/trt-llm-0.7.1)
+> This branch is valid only for TRT-LLM v0.5. For the instructions compatible with the latest TRT-LLM release (v0.7.1), please switch to this branch:
+> NVIDIA Repo Link: [trt-llm-0.7.1](https://github.com/NVIDIA/trt-llm-rag-windows/blob/trt-llm-0.7.1)
+> Enscend Repo Link: [trt-llm-0.7.1](https://github.com/Enscend/trt-llm-rag-windows/tree/trt-llm-0.7.1)
 
 
 Ensure you have the pre-requisites in place:
